@@ -75,7 +75,6 @@ stack-data==0.6.3
 sympy==1.13.3
 threadpoolctl==3.6.0
 tokenizers==0.22.1
-torch==2.7.1+cu118
 torchaudio==2.7.1+cu118
 torchvision==0.22.1+cu118
 tornado==6.5.2
@@ -89,6 +88,7 @@ uritemplate==4.2.0
 urllib3==2.5.0
 wcwidth==0.2.14
 Werkzeug==3.1.3
+
 
 
 
